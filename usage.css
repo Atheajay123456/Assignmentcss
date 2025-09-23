@@ -2,7 +2,6 @@
     .parent{
     height: 200px;
     width: 200px;
-    display: flex;
     margin: 50px;
     
 }
@@ -32,5 +31,6 @@
     margin: 50px;
     background-color: yellow;
 }
+
 
 
